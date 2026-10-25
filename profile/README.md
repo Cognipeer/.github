@@ -19,8 +19,11 @@ Cognipeer builds AI products and open-source building blocks for production AI: 
 | [graph-builder](https://github.com/Cognipeer/graph-builder) | Turn text sources into a queryable graph | [![stars](https://img.shields.io/github/stars/Cognipeer/graph-builder?style=flat&label=%E2%AD%90)](https://github.com/Cognipeer/graph-builder/stargazers) | [![npm](https://img.shields.io/npm/v/@cognipeer/graph-builder)](https://www.npmjs.com/package/@cognipeer/graph-builder) |
 | [cognipeer-observability](https://github.com/Cognipeer/cognipeer-observability) | Drop-in agent tracing for LangChain, LangGraph, OpenAI Agents and OpenTelemetry | [![stars](https://img.shields.io/github/stars/Cognipeer/cognipeer-observability?style=flat&label=%E2%AD%90)](https://github.com/Cognipeer/cognipeer-observability/stargazers) | [![npm](https://img.shields.io/npm/v/@cognipeer/observability)](https://www.npmjs.com/package/@cognipeer/observability) |
 
+**In use at Cognipeer enterprise customers** (companies Cognipeer supports; open-source users not counted): Cognipeer Console at 15 companies, agent-sdk at close to 20, to-markdown at more than 30.
+
 ## Links
 
 - [Documentation](https://docs.cognipeer.com/)
 - [Developer Portal](https://docs.cognipeer.com/developers)
 - [Console Discussions](https://github.com/Cognipeer/console/discussions)
+- Contact: [developer@cognipeer.com](mailto:developer@cognipeer.com)
