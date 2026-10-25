@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://docs.cognipeer.com/
+    about: Read the docs before opening an issue.
+  - name: Questions and discussions
+    url: https://github.com/Cognipeer/console/discussions
+    about: Ask questions and share ideas in Cognipeer Console Discussions.
+  - name: Security vulnerability
+    url: https://github.com/Cognipeer/.github/security/policy
+    about: Do not open a public issue. Read the security policy and report privately.
